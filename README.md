@@ -1,5 +1,5 @@
 <h1 align="center">
-  hola 👋, Soy
+  Hola 👋, Soy
     <a href="https://www.linkedin.com/in/nk-duarte-developer/" target="blank">
       Niko Duarte
     </a>
