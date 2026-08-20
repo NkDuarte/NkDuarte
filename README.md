@@ -1,56 +1,64 @@
-<h1 align="center">
-  Hola 👋, Soy
-    <a href="https://www.linkedin.com/in/nk-duarte-developer/" target="blank">
-      Niko Duarte
-    </a>
-</h1>
-<h3 align="center">
-  Desarrollador FullStack MEAN | Especialista en Microservicios y API
-</h3>
-<br/>
-<br/>
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-<br/>
-<br/>
-¡Hola! Soy Nicolas Duarte Moreno, un apasionado desarrollador FullStack con 5 años de experiencia en la creación de proyectos basados en microservicios y APIs interconectadas. Mi enfoque principal es trabajar en el stack MEAN (MongoDB, Express.js, Angular, Node.js), y me destaco por mi habilidad para diseñar sistemas eficientes y escalables.
-<br/>
+<div align="center">
 
-<h3 align="center" >
-  <a href="https://wa.me/573164265098" target="blank">
-      Contactame 🤝
-    </a>
-  
-</h3>
+# Hola, soy Niko Duarte
 
-<p align="center">
- <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" />
-  </div>
-</p>
+### Full Stack Developer | Microservicios | APIs
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,docker,express,figma,firebase,github,html,js,linux,md,materialui,mongodb,mysql,nodejs,postman,py,react,tailwind,ts,vscode,bash,angular,redis,dart&perline=14" />
-  </a>
-</p>
+Construyo productos digitales escalables con el stack **MEAN**, arquitecturas orientadas a servicios y APIs diseñadas para crecer.
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> </picture> Informacion de contacto
+<a href="https://wa.me/573164265098"><img src="https://img.shields.io/badge/Hablemos-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contactarme por WhatsApp"></a>
+<a href="https://www.linkedin.com/in/nk-duarte-developer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil de LinkedIn"></a>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nk-duarte-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
-  
-  <a href="https://www.instagram.com/_n1k0_dm_?igsh=aDIyMGN0Z3U3OG14" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" />
-  </a>
-</p>
+</div>
 
-```
- ▐ ▄ ▄ •▄     
-•█▌▐██▌▄▌▪    
-▐█▐▐▌▐▀▀▄·    
-██▐█▌▐█.█▌    
-▀▀ █▪·▀  ▀
-```
+<hr>
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+
+## Sobre mí
+
+Soy **Nicolas Duarte Moreno**, desarrollador Full Stack con más de **5 años de experiencia** creando soluciones basadas en microservicios y APIs interconectadas.
+
+Me interesa convertir problemas complejos en sistemas claros, mantenibles y eficientes. Trabajo especialmente en el diseño de servicios, integración entre sistemas y desarrollo de aplicaciones web completas.
+
+**Enfoque actual**
+
+- Arquitecturas de microservicios y APIs REST
+- Aplicaciones web con Angular y Node.js
+- Integraciones con bases de datos SQL y NoSQL
+- Automatización, contenedores y despliegues en la nube
+
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="360" alt="Desarrollador trabajando en una aplicación web">
+    </td>
+  </tr>
+</table>
+
+## Stack tecnológico
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=angular,typescript,nodejs,express,mongodb,mysql,redis,docker,aws,git,github,postman&perline=6" alt="Angular, TypeScript, Node.js, Express, MongoDB, MySQL, Redis, Docker, AWS, Git, GitHub y Postman">
+</div>
+
+## Cómo puedo aportar
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><strong>Backend</strong><br>Servicios robustos, APIs REST y comunicación entre microservicios.</td>
+    <td width="33%" valign="top"><strong>Frontend</strong><br>Interfaces funcionales y mantenibles con Angular y TypeScript.</td>
+    <td width="33%" valign="top"><strong>Delivery</strong><br>Contenedores, control de versiones e integraciones listas para producción.</td>
+  </tr>
+</table>
+
+## Conectemos
+
+Estoy abierto a conversar sobre productos digitales, arquitectura de software y oportunidades para construir soluciones que generen valor.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nk-duarte-developer/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Conectar en LinkedIn"></a>
+  <a href="https://wa.me/573164265098"><img src="https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Escribir por WhatsApp"></a>
+  <a href="https://www.instagram.com/_n1k0_dm_/"><img src="https://img.shields.io/badge/Instagram-Sígueme-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Seguir en Instagram"></a>
+</div>
